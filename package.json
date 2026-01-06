@@ -15,6 +15,9 @@
   "author": "Arham",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
