@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This is the demo project",
+  "type": "module",
+  "homepage": "https://github.com/Arham321Ansari/DemoProject#readme",
+  "bugs": {
+    "url": "https://github.com/Arham321Ansari/DemoProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arham321Ansari/DemoProject.git"
+  },
+  "license": "ISC",
+  "author": "Arham",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
